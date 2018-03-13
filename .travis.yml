@@ -1,0 +1,12 @@
+# aws-django-docker-static/.travis.yml
+
+language: node_js
+
+node_js:
+  - "8"
+
+install:
+  - "npm install"
+
+script:
+  - "npm run test"
