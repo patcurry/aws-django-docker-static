@@ -19,7 +19,7 @@ deploy:
   access_key_id: $ACCESSKEYID 
   secret_access_key:
     secure: "$SECRETACCESSKEY" 
-  bucket: "S3 Bucket"
+  bucket: "aws-django-docker-static"
   skip_cleanup: true
   region: "eu-central-1"
   local_dir: build
