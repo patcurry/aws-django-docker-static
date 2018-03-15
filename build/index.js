@@ -12,6 +12,8 @@ var cElement = document.getElementById('c');
 
 cElement.append(c);
 
+console.log('yes!');
+
 },{"./sum":2}],2:[function(require,module,exports){
 "use strict";
 
