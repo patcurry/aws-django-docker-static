@@ -1,5 +1,5 @@
 {
-  "name": "js_src",
+  "name": "aws-django-docker-static-src",
   "version": "1.0.0",
   "description": "Testing out travis and javascript and stuff",
   "main": "index.js",
