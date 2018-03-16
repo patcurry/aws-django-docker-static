@@ -10,7 +10,7 @@ install:
 
 script:
   - "npm run test"
-  - "npm run build"
+#  - "npm run build"
 
 before_deploy: "echo 'How do I deploy only the correct files?'"
 
